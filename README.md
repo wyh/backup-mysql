@@ -36,6 +36,7 @@ The secret will be used in the script as the parameter of password. You need to 
     ```
         sudo backup_mysql.sh /backup/dir remote@server /remote/backup/dir 1
     ```
+
 ### how to restore the data?
 
 Please read percona xtrabackup manual.
